@@ -28,3 +28,4 @@ What is the average credit score for customers who have exited compared to those
 Please address the following research questions using Data Analysis ToolPak in Excel:
 Is there any significant difference in customers' average earning between churned and not-churned?
 Is there any significant difference in customers' average credit scores among customers' geographic location?
+### Instructions
