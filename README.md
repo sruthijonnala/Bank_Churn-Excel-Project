@@ -29,3 +29,32 @@ Please address the following research questions using Data Analysis ToolPak in E
 Is there any significant difference in customers' average earning between churned and not-churned?
 Is there any significant difference in customers' average credit scores among customers' geographic location?
 ### Instructions
+Please address the following analytical questions using Pivot Tables in Excel:
+What is the average credit score for each geography?
+How does the average account balance vary between genders within each country?
+What is the distribution of active members versus non-active members according to having credit card?
+What is the customer churn rate per number of products used?
+What is the average credit score for customers who have exited compared to those who have stayed, across different tenure?
+Please address the following research questions using Data Analysis ToolPak in Excel:
+Is there any significant difference in customers' average earning between churned and not-churned?
+Is there any significant difference in customers' average credit scores among customers' geographic location?
+### Instructions
+Deal with missing values in "EstimatedSalary" and inconsistent value in "Balance" variables.
+Use average value to replace any missing value or inconsistent data within the variables.
+Complete your analysis for the first 5 questions using Pivot Tables in Excel based on the provided dataset.
+For each analytical question, create a separate Pivot Table and include a brief summary of your findings.
+Complete your analysis for the last 2 questions using Data Analysis ToolPak in Excel based on the provided dataset. Significance level = 0.05. No need to test any assumptions.
+For each research question, create a separate worksheet and include a brief summary of your findings.
+
+### Questions for this assignment
+How many missing values are in the "EstimatedSalary" variable?
+What is the average balance excluding the inconsistent value?
+What is the average credit score of the customers from Germany?
+What is the average bank balance of the male customers from France?
+How many of the customers got churned among the customers who have a credit card?
+How many of the customers stayed among the customers who have used 3 products?
+What is the average credit score for a churned customer who have a tenure of 1 year?
+What is the average salary of churned customers?
+What is the conclusion for the research question 1?
+What is the conclusion for the research question 2?
+
