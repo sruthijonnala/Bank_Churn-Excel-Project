@@ -25,18 +25,11 @@ How does the average account balance vary between genders within each country?
 What is the distribution of active members versus non-active members according to having credit card?
 What is the customer churn rate per number of products used?
 What is the average credit score for customers who have exited compared to those who have stayed, across different tenure?
-Please address the following research questions using Data Analysis ToolPak in Excel:
+
+#### Please address the following research questions using Data Analysis ToolPak in Excel:
 Is there any significant difference in customers' average earning between churned and not-churned?
 Is there any significant difference in customers' average credit scores among customers' geographic location?
-### Please address the following analytical questions using Pivot Tables in Excel:
-What is the average credit score for each geography?
-How does the average account balance vary between genders within each country?
-What is the distribution of active members versus non-active members according to having credit card?
-What is the customer churn rate per number of products used?
-What is the average credit score for customers who have exited compared to those who have stayed, across different tenure?
-Please address the following research questions using Data Analysis ToolPak in Excel:
-Is there any significant difference in customers' average earning between churned and not-churned?
-Is there any significant difference in customers' average credit scores among customers' geographic location?
+
 ### Instructions
 Deal with missing values in "EstimatedSalary" and inconsistent value in "Balance" variables.
 Use average value to replace any missing value or inconsistent data within the variables.
