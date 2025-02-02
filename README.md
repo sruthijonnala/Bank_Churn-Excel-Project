@@ -47,8 +47,8 @@ Complete your analysis for the last 2 questions using Data Analysis ToolPak in E
 For each research question, create a separate worksheet and include a brief summary of your findings.
 
 ### Questions for this assignment
-How many missing values are in the "EstimatedSalary" variable?
-What is the average balance excluding the inconsistent value?
+> How many missing values are in the "EstimatedSalary" variable?
+> What is the average balance excluding the inconsistent value?
 What is the average credit score of the customers from Germany?
 What is the average bank balance of the male customers from France?
 How many of the customers got churned among the customers who have a credit card?
