@@ -41,12 +41,12 @@ For each research question, create a separate worksheet and include a brief summ
 ### Questions for this assignment
 > How many missing values are in the "EstimatedSalary" variable?
 > What is the average balance excluding the inconsistent value?
-What is the average credit score of the customers from Germany?
-What is the average bank balance of the male customers from France?
-How many of the customers got churned among the customers who have a credit card?
-How many of the customers stayed among the customers who have used 3 products?
-What is the average credit score for a churned customer who have a tenure of 1 year?
-What is the average salary of churned customers?
-What is the conclusion for the research question 1?
-What is the conclusion for the research question 2?
+> What is the average credit score of the customers from Germany?
+> What is the average bank balance of the male customers from France?
+> How many of the customers got churned among the customers who have a credit card?
+> How many of the customers stayed among the customers who have used 3 products?
+> What is the average credit score for a churned customer who have a tenure of 1 year?
+> What is the average salary of churned customers?
+> What is the conclusion for the research question 1?
+> What is the conclusion for the research question 2?
 
